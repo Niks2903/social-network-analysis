@@ -15,3 +15,35 @@ The system that has been developed first stores all the tweets fetched for certa
 <p float="left">
   <img src="Images/architecture.PNG" width="70%" height="80%"/>
 </p>
+
+### Results and Analysis
+- List of key players from the network
+
+<p float="left">
+  <img src="Images/sc1.PNG" width="70%" height="80%"/>
+</p>
+
+- Search Inforamation
+
+<p float="left">
+  <img src="Images/sc2.PNG" width="70%" height="80%"/>
+</p>
+
+- Time-frequency analysis
+
+<p float="left">
+  <img src="Images/sc3.PNG" width="70%" height="80%"/>
+</p>
+
+- Network Graph
+
+<p float="left">
+  <img src="Images/sc4.PNG" width="70%" height="80%"/>
+</p>
+
+- Heat map of the locations
+
+<p float="left">
+  <img src="Images/sc5.PNG" width="70%" height="80%"/>
+</p>
+
